@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PiggyBank()
+comment1.params=x
+comment1.target=java.lang.String\ addMoney(Coin)
+comment1.text=\ \n\ Preconditon\:\ Receives\ valid\ Coin\ object\ reference\ from\ client\n\ Postcondition\:\ Adds\ Coin\ to\ instance\ ArrayList\ \n\ \n\ @param\ \ x\ \ \ an\ object\ reference\ of\ type\ Coin\ \ \ \n\ @return\ \ \ \ \ instance\ String\ of\ ArrayList\ contents\ \n\ \n\ Do\ Not\ Modify\n
+comment2.params=x
+comment2.target=java.lang.String\ removeMoney(Coin)
+comment2.text=\ \n\ \ Searches\ ArrayList\ for\ Coin\ of\ the\ same\ value\n\ \ \n\ \ Precondition\:\ Receives\ valid\ Coin\ object\ reference\ from\ client\ \n\ \ Postcondition\:\ Updated\ instance\ String\ of\ ArrayList\ contents\n\ \n\ @param\ \ x\ \ \ an\ object\ reference\ of\ type\ Coin\ \ \ \n\ @return\ \ \ \ \ instance\ String\ of\ ArrayList\ contents\ \n\ \n
+comment3.params=
+comment3.target=java.lang.String\ sortMoney()
+comment3.text=\ \n\ \ Postcondition\:\ Performs\ an\ ascending\ sort\ on\ the\ ArrayList\ contents\n\ \ \ \ according\ to\ the\ compareTo\ method\ of\ Coin.\n\ \n\ \ Demonstrate\ the\ use\ of\ mergesort\ here\n
+comment4.params=
+comment4.target=void\ bankContents()
+comment4.text=\n\ \ Private\ Helper\ Method\n\ \ Builds\ the\ string\ that\ shows\ the\ Piggybank\ contents.\ \n\ \n\ Do\ Not\ Modify\n
+numComments=5
